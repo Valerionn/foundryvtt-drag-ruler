@@ -3,6 +3,13 @@
 ## Beware of bugs in v12 and onward
 Foundry v12 has introduced significant changes to how the grid and the ruler are implemented. While Drag Ruler has now been updated to generally work with v12, quite a lot of bugs remain. This is espeically true for Hex grids, but some bugs affect all the grid types. Some of the issues require a large code rewrite to address them properly. Unfortunately this means that Drag Ruler will not provide the same quality experience (snappyness, bugfreeness) you're used to in v12 (and possibly onward). If you're planning to update to v12 and depend on Drag Ruler, proceed with caution.
 
+# FORK
+This is a fork of the original package, intended to fix some bugs until the [corresponding PR](https://github.com/manuelVo/foundryvtt-drag-ruler/pull/343) has been merged.
+You can install it by manually using the following manifest URL:
+
+```
+https://raw.githubusercontent.com/Valerionn/foundryvtt-drag-ruler/master/module.json
+```
 
 # Drag Ruler
 

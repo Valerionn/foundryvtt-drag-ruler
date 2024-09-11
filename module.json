@@ -1,8 +1,8 @@
 {
 	"id": "drag-ruler",
-	"title": "Drag Ruler",
+	"title": "Drag Ruler [Fork - Valerionn]",
 	"description": "When dragging a token displays a ruler showing how far you've moved that token.",
-	"version": "1.14.2",
+	"version": "1.14.2f",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12",
@@ -80,11 +80,10 @@
 		]
 	},
 	"socket": true,
-	"url": "https://github.com/manuelVo/foundryvtt-drag-ruler",
-	"download": "https://github.com/manuelVo/foundryvtt-drag-ruler/archive/v1.14.2.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-drag-ruler/issues",
-	"allowBugReporter": true
+	"url": "https://github.com/Valerionn/foundryvtt-drag-ruler",
+	"download": "https://github.com/Valerionn/foundryvtt-drag-ruler/archive/v1.14.2f.zip",
+	"manifest": "https://raw.githubusercontent.com/Valerionn/foundryvtt-drag-ruler/master/module.json",
+	"readme": "https://github.com/Valerionn/foundryvtt-drag-ruler/blob/master/README.md",
+	"changelog": "https://github.com/Valerionn/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/Valerionn/foundryvtt-drag-ruler/issues"
 }
